@@ -42,8 +42,8 @@
     </dependency>
   </dependencies>
 <distributionManagement> 
-  <id>nexus</id>
   <Repository>
+    <id>nexus</id>
     <url>http://13.231.193.78:8081/repository/maven-snapshots/</url>
     <url>http://13.231.193.78:8081/repository/maven-releases/</url>
   </Repository>
